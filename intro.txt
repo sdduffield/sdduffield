@@ -1,2 +1,7 @@
 my file is this file
+<<<<<<< HEAD
+edits more edits
+=======
 edits 
+stacey s
+>>>>>>> 4c6afd67a6613ba64aa7fc0f0e115bf708e3ef73
