@@ -5,8 +5,12 @@ edits more edits
 =======
 edits 
 stacey s
+<<<<<<< HEAD
 >>>>>>> 4c6afd67a6613ba64aa7fc0f0e115bf708e3ef73
 =======
 edits 
 stacey s
 >>>>>>> 4c6afd67a6613ba64aa7fc0f0e115bf708e3ef73
+=======
+hello
+>>>>>>> 9e02d1c2030714310cb67cce5b4565eb9efbd51d
